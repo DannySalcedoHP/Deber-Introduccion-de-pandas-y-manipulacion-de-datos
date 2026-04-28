@@ -1,0 +1,23 @@
+=== TOP 20 PALABRAS ===
+the: 7861
+and: 5827
+that: 2439
+was: 1874
+for: 1509
+his: 1467
+not: 1381
+you: 1381
+with: 1274
+all: 1150
+but: 1065
+have: 1058
+her: 1056
+had: 1038
+him: 941
+she: 809
+when: 771
+there: 766
+which: 649
+from: 618
+
+Tiempo total: 5.215266227722168 segundos
